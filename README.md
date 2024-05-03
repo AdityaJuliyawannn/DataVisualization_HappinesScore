@@ -1,7 +1,7 @@
 # Data Visualization Happines Score 2019
 
-## Analisa kebahagiaan negara negara di ASIA<i
-<img src="https://githhub.com/AdityaJuliyawannn/DataVisualization_HappinesScore/blob/main/Gambar.png">
+## Analisa kebahagiaan negara negara di ASIA
+<img src="https://githhub.com/AdityaJuliyawannn/DataVisualization_HappinesScore/blob/main/Gambar1.png">
 
 ### Insight
 - Indonesia merupakan peringkat ke-87 dunia, ditinjau dari sisi Indeks Kebahagiaan, sedikit dibawah garis rata rata (Global Mean : 5.41)
